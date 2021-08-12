@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Particles>
+  <Emitter xPos = "200" yPos="200" width="400" height="400" NoOfParticles="200"
+           minVelX="10" maxVelX="15" minVelY="10" maxVelY="15" 
+           Minlife="100" Maxlife="100"  
+           ScaleMinX = "5" ScaleMaxX = "5"  ScaleMinY = "5" ScaleMaxY = "5" 
+           RotationStartMin = "0" RotationStartMax = "90"  RotationEndMin = "180" RotationEndMax = "360" 
+           ColorMinA = "0" ColorMaxA = "255" 
+           ColorMinR = "0" ColorMaxR = "255" 
+           ColorMinG = "0" ColorMaxG = "255" 
+           ColorMinB = "0" ColorMaxB = "255" 
+           SpawnRate="1" ColorRate="1" RotationRate="1" velocityXRate="1" velocityYRate="1" 
+           Type="1" name="FIRE" IsLooping="false" IsBlending="false"
+           SourceBlend="D3DBLEND_BLENDFACTOR" DestBlend="D3DBLEND_DESTALPHA" imageID="2">
+  </Emitter>
+</Particles>
+<!-- TYPE
+0 ----  RECTANGLE  
+1 ----	CIRCLE
+2 ----	POINT1
+3 ----	LINE
+-->

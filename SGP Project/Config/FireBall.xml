@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Particles>
+  <Emitter xPos="380" yPos="317" width="107" height="119" NoOfParticles="1000" minVelX="-2" maxVelX="2" minVelY="-3" maxVelY="2" Minlife="50" Maxlife="100" ScaleMinX="5" ScaleMaxX="6" ScaleMinY="5" ScaleMaxY="6" RotationStartMin="0" RotationStartMax="180" RotationEndMin="180" RotationEndMax="360" ColorMinA="56" ColorMinR="255" ColorMinG="0" ColorMinB="0" ColorMaxA="119" ColorMaxR="255" ColorMaxG="36" ColorMaxB="40" EmissionRate="50" ColorRate="1" ScaleRate="1" RotationRate="1" velocityXRate="1" velocityYRate="1" Type="0" name="FireBall" IsLooping="false" IsBlending="true" SourceBlend="4" DestBlend="2" imageID="resource\graphics\A_Particle_Emission.png" />
+</Particles>

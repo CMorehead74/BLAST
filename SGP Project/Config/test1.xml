@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Particles>
+  <Emitter xPos="395" yPos="295" OuterRadius="23" width="10" height="10" NoOfParticles="1833" minVelX="-1" maxVelX="-1" minVelY="0" maxVelY="0" Minlife="62" Maxlife="83" ScaleMinX="1" ScaleMaxX="1" ScaleMinY="1" ScaleMaxY="1" RotationStartMin="330" RotationStartMax="50" RotationEndMin="104" RotationEndMax="171" ColorMinA="138" ColorMinR="196" ColorMinG="144" ColorMinB="93" ColorMaxA="226" ColorMaxR="224" ColorMaxG="183" ColorMaxB="60" EmissionRate="70" ColorRate="1" ScaleRate="3" RotationRate="1" velocityXRate="1" velocityYRate="1" Type="0" name="1" IsLooping="true" IsBlending="true" SourceBlend="4" DestBlend="0" imageID="resource/graphics/A_Particle_Emission6.png" />
+</Particles>
