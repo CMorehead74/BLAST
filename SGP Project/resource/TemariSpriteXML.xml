@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AllAnimations>
+  <Animations>
+    <Frames>
+      <SourceRect RenderLeft="4" RenderTop="20" RenderRight="52" RenderBottom="89" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="24" Y="80" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="51" RenderTop="19" RenderRight="98" RenderBottom="88" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="71" Y="78" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="93" RenderTop="17" RenderRight="143" RenderBottom="88" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="109" Y="71" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="141" RenderTop="17" RenderRight="184" RenderBottom="88" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="160" Y="74" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="181" RenderTop="13" RenderRight="232" RenderBottom="87" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="195" Y="67" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="232" RenderTop="15" RenderRight="278" RenderBottom="90" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="251" Y="71" />
+    </Frames>
+  </Animations>
+  <Animations>
+    <Frames>
+      <SourceRect RenderLeft="6" RenderTop="214" RenderRight="62" RenderBottom="275" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="28" Y="261" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="67" RenderTop="212" RenderRight="120" RenderBottom="275" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="96" Y="257" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="116" RenderTop="203" RenderRight="177" RenderBottom="273" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="142" Y="239" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="176" RenderTop="215" RenderRight="232" RenderBottom="276" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="204" Y="261" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="230" RenderTop="210" RenderRight="283" RenderBottom="271" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="255" Y="254" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="281" RenderTop="213" RenderRight="339" RenderBottom="273" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="311" Y="261" />
+    </Frames>
+  </Animations>
+  <Animations>
+    <Frames>
+      <SourceRect RenderLeft="12" RenderTop="300" RenderRight="62" RenderBottom="373" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="23" Y="337" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="64" RenderTop="308" RenderRight="110" RenderBottom="373" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="79" Y="353" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="64" RenderTop="308" RenderRight="110" RenderBottom="373" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="79" Y="353" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="113" RenderTop="305" RenderRight="166" RenderBottom="370" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="113" Y="349" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="166" RenderTop="302" RenderRight="221" RenderBottom="371" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="164" Y="343" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="224" RenderTop="306" RenderRight="277" RenderBottom="370" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="230" Y="350" />
+    </Frames>
+  </Animations>
+  <Animations>
+    <Frames>
+      <SourceRect RenderLeft="363" RenderTop="25" RenderRight="433" RenderBottom="92" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="377" Y="78" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="439" RenderTop="25" RenderRight="493" RenderBottom="91" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="466" Y="77" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="492" RenderTop="24" RenderRight="558" RenderBottom="89" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="521" Y="70" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="492" RenderTop="24" RenderRight="558" RenderBottom="89" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="521" Y="70" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="563" RenderTop="15" RenderRight="633" RenderBottom="91" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="593" Y="58" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="635" RenderTop="32" RenderRight="705" RenderBottom="91" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="653" Y="91" />
+    </Frames>
+  </Animations>
+  <Animations>
+    <Frames>
+      <SourceRect RenderLeft="385" RenderTop="119" RenderRight="439" RenderBottom="187" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="405" Y="163" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="441" RenderTop="121" RenderRight="495" RenderBottom="186" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="463" Y="167" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="441" RenderTop="121" RenderRight="495" RenderBottom="186" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="463" Y="167" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="499" RenderTop="121" RenderRight="556" RenderBottom="185" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="522" Y="167" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="499" RenderTop="121" RenderRight="556" RenderBottom="185" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="522" Y="167" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="557" RenderTop="123" RenderRight="619" RenderBottom="186" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="579" Y="171" />
+    </Frames>
+  </Animations>
+  <Animations>
+    <Frames>
+      <SourceRect RenderLeft="390" RenderTop="207" RenderRight="452" RenderBottom="276" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="414" Y="259" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="449" RenderTop="208" RenderRight="524" RenderBottom="277" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="463" Y="261" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="449" RenderTop="208" RenderRight="524" RenderBottom="277" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="463" Y="261" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="528" RenderTop="209" RenderRight="604" RenderBottom="280" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="546" Y="263" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="528" RenderTop="209" RenderRight="604" RenderBottom="280" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="546" Y="263" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="602" RenderTop="207" RenderRight="671" RenderBottom="280" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="626" Y="259" />
+    </Frames>
+  </Animations>
+  <Animations>
+    <Frames>
+      <SourceRect RenderLeft="6" RenderTop="114" RenderRight="50" RenderBottom="178" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="21" Y="163" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="52" RenderTop="116" RenderRight="102" RenderBottom="178" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="60" Y="167" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="116" RenderTop="114" RenderRight="174" RenderBottom="181" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="111" Y="170" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="168" RenderTop="121" RenderRight="243" RenderBottom="180" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="148" Y="180" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="241" RenderTop="134" RenderRight="310" RenderBottom="185" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="230" Y="200" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="303" RenderTop="120" RenderRight="367" RenderBottom="183" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="291" Y="175" />
+    </Frames>
+  </Animations>
+</AllAnimations>
