@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GAME_SAVE>
+    <level_info current_level="1" />
+    <player_info pos_x="242.697708" pos_y="3350.256348" health="200" pickup_timer="3.135001" curr_weapon="1" food_total="2.000000" fire_rate="0.250000" ore_rate="0" food_rate="0" damage="15" ammo="38" cash="600" ore="200" health_packs="5" max_health="200" armor="12" kills="36" />
+    <helicopter_info pos_x="6.772676" pos_y="72.646179" health="842150926" player_found="0" on_the_ground="0" is_flying="1" is_spawning="0" is_landing="0" />
+</GAME_SAVE>

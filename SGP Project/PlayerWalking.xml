@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AllAnimations>
+  <Animations>
+    <Frames>
+      <SourceRect RenderLeft="0" RenderTop="2" RenderRight="104" RenderBottom="104" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="52" Y="62" />
+      <Trigger Event="" />
+      <FrameDuration Duration="0.17" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="104" RenderTop="2" RenderRight="208" RenderBottom="100" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="152" Y="47" />
+      <Trigger Event="" />
+      <FrameDuration Duration="0.17" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="206" RenderTop="3" RenderRight="309" RenderBottom="96" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="249" Y="45" />
+      <Trigger Event="" />
+      <FrameDuration Duration="0.17" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="308" RenderTop="4" RenderRight="410" RenderBottom="94" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="355" Y="46" />
+      <Trigger Event="" />
+      <FrameDuration Duration="0.17" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="411" RenderTop="4" RenderRight="513" RenderBottom="94" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="461" Y="47" />
+      <Trigger Event="" />
+      <FrameDuration Duration="0.17" />
+    </Frames>
+  </Animations>
+</AllAnimations>

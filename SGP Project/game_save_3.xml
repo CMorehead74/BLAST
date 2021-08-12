@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GAME_SAVE>
+<<<<<<< .mine
+    <level_info current_level="1" />
+    <player_info pos_x="1577.597168" pos_y="165.399811" health="503" pickup_timer="0.000000" curr_weapon="0" food_total="20.000000" fire_rate="0.250000" ore_rate="0" food_rate="0" damage="10" ammo="0" cash="6000" ore="200" health_packs="1" max_health="200" armor="0" kills="0" />
+    <ally_info pos_x="140.000000" pos_y="200.000000" health="578" type="0" />
+    <ally_info pos_x="210.000000" pos_y="200.000000" health="630" type="1" />
+    <ally_info pos_x="170.000000" pos_y="400.000000" health="216" type="2" />
+    <ally_info pos_x="70.000000" pos_y="200.000000" health="100" type="3" />
+    <helicopter_info pos_x="2558.283447" pos_y="768.540466" health="500" player_found="0" on_the_ground="1" is_flying="0" is_spawning="1" is_landing="0" />
+    <enemy_info pos_x="1018.807312" pos_y="1093.807617" health="100" type="1" />
+    <enemy_info pos_x="1058.007446" pos_y="1095.007690" health="100" type="1" />
+    <enemy_info pos_x="1287.933838" pos_y="1298.933228" health="100" type="2" />
+    <enemy_info pos_x="1323.253540" pos_y="1287.253662" health="100" type="0" />
+    <enemy_info pos_x="1409.116577" pos_y="1066.179688" health="100" type="2" />
+    <enemy_info pos_x="1261.680908" pos_y="1000.966614" health="90" type="2" />
+    <enemy_info pos_x="1350.444092" pos_y="1027.947510" health="100" type="1" />
+    <enemy_info pos_x="1395.312866" pos_y="1521.314697" health="100" type="2" />
+    <enemy_info pos_x="1285.991699" pos_y="1332.991333" health="100" type="1" />
+    <enemy_info pos_x="2813.364746" pos_y="980.620361" health="100" type="1" />
+    <enemy_info pos_x="2701.534668" pos_y="896.790405" health="100" type="0" />
+    <enemy_info pos_x="2593.103760" pos_y="814.360413" health="100" type="0" />
+=======
+    <level_info current_level="1" />
+    <player_info pos_x="685.698608" pos_y="3827.651855" health="200" pickup_timer="6.130995" curr_weapon="4" food_total="2.000000" fire_rate="0.250000" ore_rate="0" food_rate="0" damage="50" ammo="38" cash="600" ore="200" health_packs="5" max_health="200" armor="12" kills="35" />
+    <helicopter_info pos_x="615.899597" pos_y="3074.076172" health="842150926" player_found="0" on_the_ground="0" is_flying="1" is_spawning="0" is_landing="0" />
+    <enemy_info pos_x="383.615112" pos_y="3819.316895" health="100" type="0" />
+>>>>>>> .r262
+</GAME_SAVE>

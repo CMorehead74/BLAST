@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AllAnimations>
+  <Animations>
+    <Frames>
+      <SourceRect RenderLeft="4" RenderTop="8" RenderRight="158" RenderBottom="228" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="81" Y="118" />
+      <Trigger Event="" />
+      <FrameDuration Duration="0.10" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="150" RenderTop="8" RenderRight="320" RenderBottom="228" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="240" Y="118" />
+      <Trigger Event="" />
+      <FrameDuration Duration="0.10" />
+    </Frames>
+    <Frames>
+      <SourceRect RenderLeft="314" RenderTop="8" RenderRight="460" RenderBottom="228" />
+      <CollisionRect CollisionLeft="0" CollisionTop="0" CollisionRight="0" CollisionBottom="0" />
+      <ActiveRect ActiveLeft="0" ActiveTop="0" ActiveRight="0" ActiveBottom="0" />
+      <AnchorPoint X="383" Y="118" />
+      <Trigger Event="" />
+      <FrameDuration Duration="0.10" />
+    </Frames>
+  </Animations>
+</AllAnimations>

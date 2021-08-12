@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GAME_SAVE>
+    <level_info current_level="1" />
+    <player_info pos_x="399.800018" pos_y="176.999603" health="200" pickup_timer="0.000000" curr_weapon="0" food_total="68.000000" fire_rate="0.100000" ore_rate="0" food_rate="0" damage="10" ammo="0" cash="0" ore="200" health_packs="1" max_health="200" armor="0" kills="0" />
+    <ally_info pos_x="140.000000" pos_y="200.000000" health="1303" type="0" />
+    <ally_info pos_x="210.000000" pos_y="200.000000" health="1303" type="1" />
+    <ally_info pos_x="170.000000" pos_y="400.000000" health="225" type="2" />
+    <ally_info pos_x="70.000000" pos_y="200.000000" health="100" type="3" />
+    <helicopter_info pos_x="321.436920" pos_y="3829.273926" health="500" player_found="1" on_the_ground="0" is_flying="1" is_spawning="0" is_landing="0" />
+    <enemy_info pos_x="968.598999" pos_y="1003.599121" health="100" type="3" />
+    <enemy_info pos_x="895.550110" pos_y="1100.549194" health="100" type="3" />
+    <enemy_info pos_x="1083.038940" pos_y="1168.039917" health="100" type="2" />
+    <enemy_info pos_x="859.959290" pos_y="911.958862" health="100" type="0" />
+    <enemy_info pos_x="1285.901367" pos_y="1239.901123" health="100" type="3" />
+    <enemy_info pos_x="1064.760254" pos_y="1088.759766" health="100" type="2" />
+    <enemy_info pos_x="1358.522339" pos_y="1361.522217" health="100" type="1" />
+    <enemy_info pos_x="1274.152588" pos_y="1339.152588" health="100" type="1" />
+    <enemy_info pos_x="1422.113281" pos_y="1381.113281" health="100" type="1" />
+</GAME_SAVE>

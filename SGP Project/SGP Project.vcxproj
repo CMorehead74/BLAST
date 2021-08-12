@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{21DF80EA-54D5-4A54-96F5-3BEF81B6053C}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>SGPProject</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>C:\Program Files\Microsoft SDKs\Windows\v7.0A\Include;C:\Program Files\Visual Leak Detector\include;C:\Program Files\Microsoft DirectX SDK %28June 2010%29\Include;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;C:\Program Files %28x86%29\Visual Leak Detector\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files\Microsoft Speech SDK 5.1\Lib\i386;C:\Program Files\Microsoft DirectX SDK %28June 2010%29\Lib\x86;C:\Program Files\Visual Leak Detector\lib\Win32;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;C:\Program Files %28x86%29\Visual Leak Detector\lib\Win32;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>C:\Program Files %28x86%29\Visual Leak Detector\include;C:\Program Files\Visual Leak Detector\include;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;C:\Program Files\Microsoft DirectX SDK %28June 2010%29\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files\Microsoft DirectX SDK %28June 2010%29\Lib\x86;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;C:\Program Files %28x86%29\Visual Leak Detector\lib\Win32;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Program Files %28x86%29\Visual Leak Detector\include;C:\Program Files\Microsoft DirectX SDK %28June 2010%29\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files %28x86%29\Visual Leak Detector\lib\Win32;C:\Program Files\Microsoft DirectX SDK %28June 2010%29\Lib\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="SGD Wrappers\CSGD_Direct3D.cpp" />
+    <ClCompile Include="SGD Wrappers\CSGD_DirectInput.cpp" />
+    <ClCompile Include="SGD Wrappers\CSGD_TextureManager.cpp" />
+    <ClCompile Include="SGD Wrappers\CSGD_XAudio2.cpp" />
+    <ClCompile Include="SGD Wrappers\SGD_Math.cpp" />
+    <ClCompile Include="source\Ally.cpp" />
+    <ClCompile Include="source\Animation.cpp" />
+    <ClCompile Include="source\AnimationInfo.cpp" />
+    <ClCompile Include="source\AnimationManager.cpp" />
+    <ClCompile Include="source\AttackState.cpp" />
+    <ClCompile Include="source\BitmapFont.cpp" />
+    <ClCompile Include="source\Building.cpp" />
+    <ClCompile Include="source\Bullet.cpp" />
+    <ClCompile Include="source\Bunker.cpp" />
+    <ClCompile Include="source\Camera.cpp" />
+    <ClCompile Include="source\CreateAllyMessage.cpp" />
+    <ClCompile Include="source\CreateBuildingMessage.cpp" />
+    <ClCompile Include="source\CreateBulletMessage.cpp" />
+    <ClCompile Include="Source\CreateBunkerMessage.cpp" />
+    <ClCompile Include="source\CreateEnemyMessage.cpp" />
+    <ClCompile Include="Source\CreateMineMessage.cpp" />
+    <ClCompile Include="source\CreatePickUpMessage.cpp" />
+    <ClCompile Include="source\CreateShotgunBullet.cpp" />
+    <ClCompile Include="Source\CreateStoreHouseMessage.cpp" />
+    <ClCompile Include="source\CreditsState.cpp" />
+    <ClCompile Include="source\DefenseState.cpp" />
+    <ClCompile Include="source\DestroyAllyMessage.cpp" />
+    <ClCompile Include="source\DestroyBuildingMessage.cpp" />
+    <ClCompile Include="source\DestroyBulletMessage.cpp" />
+    <ClCompile Include="Source\DestroyBunkerMessage.cpp" />
+    <ClCompile Include="source\DestroyEnemyMessage.cpp" />
+    <ClCompile Include="Source\DestroyMineMessage.cpp" />
+    <ClCompile Include="source\DestroyPickUpMessage.cpp" />
+    <ClCompile Include="source\DestroyShotgunBullet.cpp" />
+    <ClCompile Include="Source\DestroyStoreHouseMessage.cpp" />
+    <ClCompile Include="source\Emitter.cpp" />
+    <ClCompile Include="source\Enemy.cpp" />
+    <ClCompile Include="source\Entity.cpp" />
+    <ClCompile Include="source\EventManager.cpp" />
+    <ClCompile Include="source\FileManagementState.cpp" />
+    <ClCompile Include="source\FollowState.cpp" />
+    <ClCompile Include="source\Frame.cpp" />
+    <ClCompile Include="source\Game.cpp" />
+    <ClCompile Include="source\GamePlayState.cpp" />
+    <ClCompile Include="source\GameStateManager.cpp" />
+    <ClCompile Include="source\Helicopter.cpp" />
+    <ClCompile Include="source\HighScoreState.cpp" />
+    <ClCompile Include="source\HowToPlayState.cpp" />
+    <ClCompile Include="source\IdleState.cpp" />
+    <ClCompile Include="source\MainMenuState.cpp" />
+    <ClCompile Include="source\MessageSystem.cpp" />
+    <ClCompile Include="source\Mine.cpp" />
+    <ClCompile Include="source\MiniMap.cpp" />
+    <ClCompile Include="source\MovingObject.cpp" />
+    <ClCompile Include="source\ObjectManager.cpp" />
+    <ClCompile Include="source\OptionsState.cpp" />
+    <ClCompile Include="source\Particle.cpp" />
+    <ClCompile Include="source\ParticleManager.cpp" />
+    <ClCompile Include="source\PatrolState.cpp" />
+    <ClCompile Include="source\PauseState.cpp" />
+    <ClCompile Include="source\PickUp.cpp" />
+    <ClCompile Include="source\Player.cpp" />
+    <ClCompile Include="source\PurchasePlacementState.cpp" />
+    <ClCompile Include="source\Shop.cpp" />
+    <ClCompile Include="source\ShopState.cpp" />
+    <ClCompile Include="source\StoreHouse.cpp" />
+    <ClCompile Include="source\TileManager.cpp" />
+    <ClCompile Include="Source\TitleState.cpp" />
+    <ClCompile Include="Source\VoiceReco.cpp" />
+    <ClCompile Include="source\WinMain.cpp" />
+    <ClCompile Include="tinyxml\tinystr.cpp" />
+    <ClCompile Include="tinyxml\tinyxml.cpp" />
+    <ClCompile Include="tinyxml\tinyxmlerror.cpp" />
+    <ClCompile Include="tinyxml\tinyxmlparser.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="SGD Wrappers\CSGD_Direct3D.h" />
+    <ClInclude Include="SGD Wrappers\CSGD_DirectInput.h" />
+    <ClInclude Include="SGD Wrappers\CSGD_TextureManager.h" />
+    <ClInclude Include="SGD Wrappers\CSGD_XAudio2.h" />
+    <ClInclude Include="SGD Wrappers\IListener.h" />
+    <ClInclude Include="SGD Wrappers\SGD_Math.h" />
+    <ClInclude Include="SGD Wrappers\SGD_String.h" />
+    <ClInclude Include="SGD Wrappers\SGD_Util.h" />
+    <ClInclude Include="source\Ally.h" />
+    <ClInclude Include="source\Animation.h" />
+    <ClInclude Include="source\AnimationInfo.h" />
+    <ClInclude Include="source\AnimationManager.h" />
+    <ClInclude Include="source\AttackState.h" />
+    <ClInclude Include="source\BitmapFont.h" />
+    <ClInclude Include="source\Building.h" />
+    <ClInclude Include="source\Bullet.h" />
+    <ClInclude Include="source\Bunker.h" />
+    <ClInclude Include="source\Camera.h" />
+    <ClInclude Include="source\CreateAllyMessage.h" />
+    <ClInclude Include="source\CreateBuildingMessage.h" />
+    <ClInclude Include="source\CreateBulletMessage.h" />
+    <ClInclude Include="Source\CreateBunkerMessage.h" />
+    <ClInclude Include="source\CreateEnemyMessage.h" />
+    <ClInclude Include="Source\CreateMineMessage.h" />
+    <ClInclude Include="source\CreatePickUpMessage.h" />
+    <ClInclude Include="source\CreateShotgunBullet.h" />
+    <ClInclude Include="Source\CreateStoreHouseMessage.h" />
+    <ClInclude Include="source\CreditsState.h" />
+    <ClInclude Include="source\DefenseState.h" />
+    <ClInclude Include="source\DestroyAllyMessage.h" />
+    <ClInclude Include="source\DestroyBuildingMessage.h" />
+    <ClInclude Include="source\DestroyBulletMessage.h" />
+    <ClInclude Include="Source\DestroyBunkerMessage.h" />
+    <ClInclude Include="source\DestroyEnemyMessage.h" />
+    <ClInclude Include="Source\DestroyMineMessage.h" />
+    <ClInclude Include="source\DestroyPickUpMessage.h" />
+    <ClInclude Include="source\DestroyShotgunBullet.h" />
+    <ClInclude Include="Source\DestroyStoreHouseMessage.h" />
+    <ClInclude Include="source\Emitter.h" />
+    <ClInclude Include="source\Enemy.h" />
+    <ClInclude Include="source\Entity.h" />
+    <ClInclude Include="source\EventManager.h" />
+    <ClInclude Include="source\FileManagementState.h" />
+    <ClInclude Include="source\FollowState.h" />
+    <ClInclude Include="source\Frame.h" />
+    <ClInclude Include="source\Game.h" />
+    <ClInclude Include="source\GamePlayState.h" />
+    <ClInclude Include="source\GameStateManager.h" />
+    <ClInclude Include="source\Helicopter.h" />
+    <ClInclude Include="source\HELPER.h" />
+    <ClInclude Include="source\HighScoreState.h" />
+    <ClInclude Include="source\HowToPlayState.h" />
+    <ClInclude Include="source\IBaseAIState.h" />
+    <ClInclude Include="source\IdleState.h" />
+    <ClInclude Include="source\IEntity.h" />
+    <ClInclude Include="source\IEvent.h" />
+    <ClInclude Include="source\IGameState.h" />
+    <ClInclude Include="source\IMessage.h" />
+    <ClInclude Include="source\MainMenuState.h" />
+    <ClInclude Include="source\Message.h" />
+    <ClInclude Include="source\MessageSystem.h" />
+    <ClInclude Include="source\Mine.h" />
+    <ClInclude Include="source\MiniMap.h" />
+    <ClInclude Include="source\MovingObject.h" />
+    <ClInclude Include="source\ObjectManager.h" />
+    <ClInclude Include="source\OptionsState.h" />
+    <ClInclude Include="source\Particle.h" />
+    <ClInclude Include="source\ParticleManager.h" />
+    <ClInclude Include="source\PatrolState.h" />
+    <ClInclude Include="source\PauseState.h" />
+    <ClInclude Include="source\PickUp.h" />
+    <ClInclude Include="source\Player.h" />
+    <ClInclude Include="source\PurchasePlacementState.h" />
+    <ClInclude Include="source\Shop.h" />
+    <ClInclude Include="source\ShopState.h" />
+    <ClInclude Include="source\StoreHouse.h" />
+    <ClInclude Include="source\TileManager.h" />
+    <ClInclude Include="Source\TitleState.h" />
+    <ClInclude Include="Source\VoiceReco.h" />
+    <ClInclude Include="tinyxml\tinystr.h" />
+    <ClInclude Include="tinyxml\tinyxml.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SGP Project.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon1.ico" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
